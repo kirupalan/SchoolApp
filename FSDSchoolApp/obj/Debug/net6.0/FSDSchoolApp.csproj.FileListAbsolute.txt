@@ -1,0 +1,15 @@
+C:\Abhilash\FSD\Capstone\SchoolApp\FSDSchoolApp\bin\Debug\net6.0\FSDSchoolApp.exe
+C:\Abhilash\FSD\Capstone\SchoolApp\FSDSchoolApp\bin\Debug\net6.0\FSDSchoolApp.deps.json
+C:\Abhilash\FSD\Capstone\SchoolApp\FSDSchoolApp\bin\Debug\net6.0\FSDSchoolApp.runtimeconfig.json
+C:\Abhilash\FSD\Capstone\SchoolApp\FSDSchoolApp\bin\Debug\net6.0\FSDSchoolApp.dll
+C:\Abhilash\FSD\Capstone\SchoolApp\FSDSchoolApp\bin\Debug\net6.0\FSDSchoolApp.pdb
+C:\Abhilash\FSD\Capstone\SchoolApp\FSDSchoolApp\obj\Debug\net6.0\FSDSchoolApp.csproj.AssemblyReference.cache
+C:\Abhilash\FSD\Capstone\SchoolApp\FSDSchoolApp\obj\Debug\net6.0\FSDSchoolApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Abhilash\FSD\Capstone\SchoolApp\FSDSchoolApp\obj\Debug\net6.0\FSDSchoolApp.AssemblyInfoInputs.cache
+C:\Abhilash\FSD\Capstone\SchoolApp\FSDSchoolApp\obj\Debug\net6.0\FSDSchoolApp.AssemblyInfo.cs
+C:\Abhilash\FSD\Capstone\SchoolApp\FSDSchoolApp\obj\Debug\net6.0\FSDSchoolApp.csproj.CoreCompileInputs.cache
+C:\Abhilash\FSD\Capstone\SchoolApp\FSDSchoolApp\obj\Debug\net6.0\FSDSchoolApp.dll
+C:\Abhilash\FSD\Capstone\SchoolApp\FSDSchoolApp\obj\Debug\net6.0\refint\FSDSchoolApp.dll
+C:\Abhilash\FSD\Capstone\SchoolApp\FSDSchoolApp\obj\Debug\net6.0\FSDSchoolApp.pdb
+C:\Abhilash\FSD\Capstone\SchoolApp\FSDSchoolApp\obj\Debug\net6.0\FSDSchoolApp.genruntimeconfig.cache
+C:\Abhilash\FSD\Capstone\SchoolApp\FSDSchoolApp\obj\Debug\net6.0\ref\FSDSchoolApp.dll
